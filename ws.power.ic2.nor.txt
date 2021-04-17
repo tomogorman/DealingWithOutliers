@@ -1,0 +1,74 @@
+
+  Permutation of residuals method.
+  Weights based on residuals of reduced model.
+  Maximum weight = 1.00
+  Early stopping enabled !
+  Bandwidth parameter h equals 1.587*sd*n**(-1/3)
+  X generated from Normal
+  Slope equal 2.9/sqrt(n) to achieve power=0.80
+
+  number of data sets    alpha  n of permutations  rho    ic  icred
+     10000               0.050      2000         0.000     2     1
+
+  starting seeds =         2762       14766       12367
+
+  n     Distribution        slope  itype  F  Adaptive  ws    ws-t
+
+  25  1 Uniform              0.580   1  75.39  75.60  74.41  -0.98
+  25  4 Normal               0.580   1  75.21  73.86  72.17  -3.04
+  25 12 Bimodal +-1.5        0.580   1  75.17  74.98  73.88  -1.29
+  25 14 t with d.f. = 4      0.580   1  77.69  81.81  81.30   3.61
+  25 31 RST a3=1 a4=4.2      0.580   1  75.57  79.96  78.62   3.05
+  25 33 RST a3=1 a4=8.4      0.580   1  76.43  80.55  79.89   3.46
+  25 34 RST a3=2 a4=11.4     0.580   1  76.81  87.02  86.20   9.39
+  25 36 RST a3=2 a4=15.6     0.580   1  78.13  86.05  85.42   7.29
+  25 39 Bimodal .75N + .25N  0.580   1  74.84  79.70  77.95   3.11
+
+  number of data sets    alpha  n of permutations  rho    ic  icred
+     10000               0.050      2000         0.000     2     1
+
+  starting seeds =        23892        1733       27807
+
+  n     Distribution        slope  itype  F  Adaptive  ws    ws-t
+
+  50  1 Uniform              0.410   1  78.28 100.00  80.03   1.75
+  50  4 Normal               0.410   1  79.00 100.00  77.41  -1.59
+  50 12 Bimodal +-1.5        0.410   1  78.28 100.00  79.13   0.85
+  50 14 t with d.f. = 4      0.410   1  79.95 100.00  86.67   6.72
+  50 31 RST a3=1 a4=4.2      0.410   1  79.30 100.00  85.09   5.79
+  50 33 RST a3=1 a4=8.4      0.410   1  79.71 100.00  85.57   5.86
+
+ 100  1 Uniform              0.290   1  80.76 100.00  82.99   2.23
+ 100  4 Normal               0.290   1  80.68 100.00  79.76  -0.92
+ 100 12 Bimodal +-1.5        0.290   1  79.93 100.00  82.42   2.49
+ 100 14 t with d.f. = 4      0.290   1  81.28 100.00  89.26   7.98
+ 100 31 RST a3=1 a4=4.2      0.290   1  80.76 100.00  87.72   6.96
+ 100 33 RST a3=1 a4=8.4      0.290   1  81.25 100.00  88.78   7.53
+
+  number of data sets    alpha  n of permutations  rho    ic  icred
+      1000               0.050      2000         0.000     2     1
+
+  starting seeds =        21782       15733       20947
+
+  n     Distribution        slope  itype  F  Adaptive  ws    ws-t
+
+ 200  1 Uniform              0.205   1  82.30  93.30  83.50   1.20
+ 200  4 Normal               0.205   1  81.40  80.70  81.00  -0.40
+ 200 12 Bimodal +-1.5        0.205   1  84.70  91.00  87.60   2.90
+ 200 14 t with d.f. = 4      0.205   1  80.50  90.00  89.80   9.30
+ 200 31 RST a3=1 a4=4.2      0.205   1  80.00  93.00  89.40   9.40
+ 200 33 RST a3=1 a4=8.4      0.205   1  83.60  91.90  91.80   8.20
+ 200 34 RST a3=2 a4=11.4     0.205   1  83.30  98.20  97.30  14.00
+ 200 36 RST a3=2 a4=15.6     0.205   1  82.10  94.80  94.60  12.50
+ 200 39 Bimodal .75N + .25N  0.205   1  81.00  97.20  92.80  11.80
+
+ 400  1 Uniform              0.145   1  80.30  95.70  81.60   1.30
+ 400  4 Normal               0.145   1  81.00  80.80  80.60  -0.40
+ 400 12 Bimodal +-1.5        0.145   1  82.70  90.40  85.30   2.60
+ 400 14 t with d.f. = 4      0.145   1  84.00  91.20  91.60   7.60
+ 400 31 RST a3=1 a4=4.2      0.145   1  83.60  95.30  90.30   6.70
+ 400 33 RST a3=1 a4=8.4      0.145   1  83.30  91.60  91.20   7.90
+ 400 34 RST a3=2 a4=11.4     0.145   1  82.20  98.40  97.00  14.80
+ 400 36 RST a3=2 a4=15.6     0.145   1  83.30  97.00  96.40  13.10
+ 400 39 Bimodal .75N + .25N  0.145   1  83.70  98.90  95.90  12.20
+
